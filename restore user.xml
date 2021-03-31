@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Users>
+	<User>
+		<first_name>Harry</first_name><last_name>Potter</last_name><email>harry@gmail.com</email><mobile>0123445678</mobile><student_id>CME1809333</student_id><password>123456</password><gender>male</gender><user_status>2</user_status><description>A wizard.</description>
+	</User>
+</Users>
